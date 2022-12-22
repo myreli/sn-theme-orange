@@ -1,0 +1,16 @@
+{
+  "identifier": "dev.myreli.sn.theme-orange",
+  "name": "Orange",
+  "content_type": "SN|Theme",
+  "version": "0.1.0",
+  "description": "Light theme for Standard Notes with orange accent, inspired by BloodToxin.",
+  "url": "https://cdn.jsdelivr.net/gh/myreli/sn-theme-orange@main/theme.css",
+  "latest_url": "https://cdn.jsdelivr.net/gh/myreli/sn-theme-orange@main/ext.json",
+  "download_url": "https://github.com/myreli/sn-theme-orange/archive/main.zip",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#ff5733",
+    "foreground_color": "#ff5733",
+    "border_color": "#ff5733"
+  }
+}
